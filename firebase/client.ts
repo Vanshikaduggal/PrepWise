@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase-admin/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBVrieBSSwGCaIisLo2eh-kgA2CidK1Z_w",
-  authDomain: "prepwise-3053e.firebaseapp.com",
-  projectId: "prepwise-3053e",
-  storageBucket: "prepwise-3053e.firebasestorage.app",
-  messagingSenderId: "579538290974",
-  appId: "1:579538290974:web:ae9f37912407fc0190610f",
-  measurementId: "G-NG6TM0DMXP"
+  apiKey: "AIzaSyDQ14IDsuCvJPb6e53wAxJEXLZJ8tSYpzI",
+  authDomain: "ai-agent-7b97c.firebaseapp.com",
+  projectId: "ai-agent-7b97c",
+  storageBucket: "ai-agent-7b97c.firebasestorage.app",
+  messagingSenderId: "195093023023",
+  appId: "1:195093023023:web:00ae6c03fac2fac36db9da",
+  measurementId: "G-Z2ZJ9QK40W"
 };
 
 // Initialize Firebase
